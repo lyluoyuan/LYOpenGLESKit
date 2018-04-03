@@ -1,0 +1,16 @@
+PODS:
+  - LYOpenGLESKit (0.1.0)
+
+DEPENDENCIES:
+  - LYOpenGLESKit (from `../`)
+
+EXTERNAL SOURCES:
+  LYOpenGLESKit:
+    :path: ../
+
+SPEC CHECKSUMS:
+  LYOpenGLESKit: 9ed2980be0bb7c5f4104a9aa4a6a4256391bbd19
+
+PODFILE CHECKSUM: d5e10dfd3537c50ebd9ca5fb5be22021773bdaf8
+
+COCOAPODS: 1.4.0

@@ -1,0 +1,6 @@
+framework module LYOpenGLESKit {
+  umbrella header "LYOpenGLESKit-umbrella.h"
+
+  export *
+  module * { export * }
+}

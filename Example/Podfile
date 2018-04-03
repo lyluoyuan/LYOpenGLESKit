@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'LYOpenGLESKit_Example' do
+  pod 'LYOpenGLESKit', :path => '../'
+
+  target 'LYOpenGLESKit_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
